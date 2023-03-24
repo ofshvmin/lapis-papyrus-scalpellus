@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    background: url('https://blog.kenkaminesky.com/wp-content/uploads/2012/04/Kaminesky-Blog-Rome-Colloseum-BW.jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+  }
+  
+  #score {
+    width: 200px;
+    border: 5px solid #777;
+    position: relative;
+    top: -100px;
+    left: 1000px;
+  }
+  
+  #current-winner {
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    top: -100px;
+  }
+  button {
+    font-family: 'Uncial Antiqua', cursive;
+  }
